@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/xintong.wu/Desktop/src_for_PE/1/NMP_controller/ibex_core.scala:85:16: exception during macro expansion: [0m
+[0m[[0m[31merror[0m] [0m[0mjava.lang.Exception: Cannot include blocks that do not begin with is() in switch.[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.util.switch$.$anonfun$impl$1(Conditional.scala:110)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.LinearSeqOps.foldLeft(LinearSeq.scala:169)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.LinearSeqOps.foldLeft$(LinearSeq.scala:165)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.collection.immutable.List.foldLeft(List.scala:79)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.util.switch$.impl(Conditional.scala:104)[0m
+[0m[[0m[31merror[0m] [0m[0m  switch(state){[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/ohmychisel_2.13-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MAC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/MAC.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ADD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/ADD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AdderTreeWithPipeline.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/AdderTreeWithPipeline.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ibex_core.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/ibex_core.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PE_INT4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/PE_INT4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PE_INT4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/PE_INT4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MAC$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/MAC$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ADD$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/ADD$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AdderTreeWithPipeline$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/AdderTreeWithPipeline$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ibex_core$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/ibex_core$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PE_INT4$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/xintong.wu/Desktop/src_for_PE/1/INT4PE/target/scala-2.13/classes/PE_INT4$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

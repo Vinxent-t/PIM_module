@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/xintong.wu/Desktop/src_for_PE/1/systolic_array/ibex_core.scala:55:32: not found: value width[0m
+[0m[[0m[31merror[0m] [0m[0m  emitVerilog(new PEArray(UInt(width.W), Size), Array("--target-dir", "generated"))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

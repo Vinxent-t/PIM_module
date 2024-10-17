@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/xintong.wu/Desktop/src_for_PE/1/FP16MAC/src/main/scala/ibex_core.scala:75:38: not found: type MAC[0m
+[0m[[0m[31merror[0m] [0m[0m  val macs = Seq.fill(16)(Module(new MAC(Width)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
